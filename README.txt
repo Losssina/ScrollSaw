@@ -1,3 +1,4 @@
+ScrollSaw v1.0
 ScrollSaw is a method enabling to reduce the complexity of large paralogue-rich gene family by identifying and preserving the most slowly evolving genes (the rationale described in Elias et al., J Cell Sci 2012; doi:10.1242/jcs.101378). 
 
 Tree-puzzle outputs are required as input data. The basis is a multiple (protein) alignment of all sequences analysed. The source organisms are divided according to their taxonomic classification into two or more (ideally monophyletic) groups and the sequence dataset is divided according to these predefined taxonomic groups. 
